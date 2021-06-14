@@ -40,6 +40,5 @@ I'm Naufil Shaikh, a Software Engineer. I have completed my bachelor's degree in
 
   https://twitter.com/naufil_09
   
-![Github Stats](https://github-readme-stats.vercel.app/api?username=naufil09&hide_border=true&show_icons=true&hide_title=true&hide=stars&bg_color=00000000&text_color=666666&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufil09&hide_border=true&layout=compact&bg_color=00000000&text_color=666666)
-
+[![Naufil's github stats](https://github-readme-stats.vercel.app/api?username=naufil09&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/naufil09/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufil09&theme=vue&layout=compact)
