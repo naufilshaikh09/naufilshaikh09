@@ -31,8 +31,6 @@ I'm Naufil Shaikh, a Software Engineer. I have completed my bachelor's degree in
   - Angular
   - Webix
   - Sql
-  
-- Currently i'm learning 🌱 AWS and my main goal will be cloud in 2021.  
 
 - Dev community is amazing and i would like to connect with amazing people.
 
@@ -42,3 +40,5 @@ I'm Naufil Shaikh, a Software Engineer. I have completed my bachelor's degree in
   
 [![Naufil's github stats](https://github-readme-stats.vercel.app/api?username=naufil09&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/naufil09/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufil09&theme=vue&layout=compact)
+
+![](https://komarev.com/ghpvc/?username=naufil09)
