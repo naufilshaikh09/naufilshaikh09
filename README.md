@@ -1,7 +1,7 @@
 ### Hi there, I'm Naufil 👋
 
 <!--
-**naufil09/naufil09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**naufilshaikh09/naufilshaikh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -38,7 +38,7 @@ I'm Naufil Shaikh, a Software Engineer. I have completed my bachelor's degree in
 
   https://twitter.com/naufil_09
   
-[![Naufil's github stats](https://github-readme-stats.vercel.app/api?username=naufil09&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/naufil09/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufil09&theme=vue&layout=compact)
+[![Naufil's github stats](https://github-readme-stats.vercel.app/api?username=naufilshaikh09&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/naufilshaikh09/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufilshaikh09&theme=vue&layout=compact)
 
-<!-- ![](https://komarev.com/ghpvc/?username=naufil09) -->
+<!-- ![](https://komarev.com/ghpvc/?username=naufilshaikh09) -->
