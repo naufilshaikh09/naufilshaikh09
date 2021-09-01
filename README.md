@@ -32,8 +32,6 @@ I'm Naufil Shaikh, a Software Engineer. I have completed my bachelor's degree in
   - Webix
   - Sql
 
-- Dev community is amazing and i would like to connect with amazing people.
-
 - Let's Connect!
 
   https://twitter.com/naufil_09
