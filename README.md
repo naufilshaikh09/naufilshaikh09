@@ -34,7 +34,7 @@ I'm Naufil Shaikh, a Software Engineer. I have completed my bachelor's degree in
 
 - Let's Connect!
 
-  https://twitter.com/naufil_09
+  https://twitter.com/naufilshaikh09
   
 [![Naufil's github stats](https://github-readme-stats.vercel.app/api?username=naufilshaikh09&theme=vue&show_icons=true&include_all_commits=true)](https://github.com/naufilshaikh09/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naufilshaikh09&theme=vue&layout=compact)
