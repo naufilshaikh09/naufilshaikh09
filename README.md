@@ -25,11 +25,11 @@ I'm Naufil Shaikh, a Software Engineer. I have completed my bachelor's degree in
 
 - Tools/Technologies/Framework ⚡ I have worked with:
   - C#
-  - Asp.net MVC/Core
-  - Windows based application
+  - Asp.net Core
+  - Graphql
   - Javascript
   - Angular
-  - Webix
+  - React
   - Sql
 
 - Let's Connect!
